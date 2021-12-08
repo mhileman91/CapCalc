@@ -1,4 +1,3 @@
-#! python 3
 # Hi! Thanks for viewing my code. Please feel free to recommend changes
 # I am open to constructive criticism
 
